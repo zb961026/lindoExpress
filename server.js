@@ -2,7 +2,7 @@ let express = require('express');
 let path=require('path')
 let http = require('http');
 let app = express();
-app.use(express.static(path.join(__dirname,'dist')))
+app.use(express.static(path.join(__dirname,'dist'))) // 静态文件夹目录，直接输出
 let goodsData = require('./static/goodsdata.json')
 let goodlist = goodsData.message
 let goodsItem=require('./static/goodsitem.json')
