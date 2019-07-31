@@ -1,0 +1,908 @@
+{
+  "status":0,
+  "message":[
+{
+"sku_id": 100027101,
+"title": "魅族 Note9",
+"sub_title": "[718特惠 低至1199元起 限时抢购中]",
+"ali_image": "https://openfile.meizu.com/group1/M00/07/03/Cgbj0Fx_ZLSAbkvCAAbf6BLA9aU577.png680x680.jpg",
+"price": 1199,
+"limit_num": 5,
+"kc_num":0,
+"spec_json": {
+  "image": "https://openfile.meizu.com/group1/M00/06/ED/Cgbj0Fw0T3OAUsmSAAAKRl5WFHo325.png",
+  "show_name": "幻影黑"
+},
+"ali_images": [
+  "https://openfile.meizu.com/group1/M00/07/03/Cgbj0Fx_ZLSAbkvCAAbf6BLA9aU577.png680x680.jpg",
+  "https://openfile.meizu.com/group1/M00/07/12/Cgbj0Vx_ZK6AaEObAAa1DJqn7us376.png@480x480.jpg",
+  "https://openfile.meizu.com/group1/M00/07/02/Cgbj0Fx_ZKaAHKKzAANLbi_Jh9A009.png680x680.jpg",
+  "https://openfile.meizu.com/group1/M00/07/12/Cgbj0Vx_ZK2AeLuGAAOGkMdE1x4601.png680x680.jpg",
+  "https://openfile.meizu.com/group1/M00/07/03/Cgbj0Fx_ZK6AMuFWAAInES6rB6g430.png680x680.jpg"
+],
+"sku_list": [{
+  "id": 100027101,
+  "image": "https://openfile.meizu.com/group1/M00/06/ED/Cgbj0Fw0T3OAUsmSAAAKRl5WFHo325.png",
+  "limit_num": 5,
+  "color": "幻影黑"
+}, {
+  "id": 100027102,
+  "image": "https://openfile.meizu.com/group1/M00/06/ED/Cgbj0Fw0T3OAEdZCAAAJazF5kdU736.png",
+  "limit_num": 5,
+  "color": "皓月白"
+}, {
+  "id": 100027103,
+  "image": "https://openfile.meizu.com/group1/M00/06/FD/Cgbj0Vw0T3OAWwcZAAAKAuloWpw010.png",
+  "limit_num": 5,
+  "color": "星耀蓝"
+}]
+}, {
+"sku_id": 100027102,
+"title": "魅族 Note9",
+"sub_title": "[718特惠 低至1199元起 限时抢购中]",
+"ali_image": "https://openfile.meizu.com/group1/M00/07/12/Cgbj0Vx_ZKWARDEYAAVfKZZCbL0565.png680x680.jpg",
+"price": 1199,
+"limit_num": 5,
+"spec_json": {
+  "image": "https://openfile.meizu.com/group1/M00/06/ED/Cgbj0Fw0T3OAEdZCAAAJazF5kdU736.png",
+  "show_name": "皓月白"
+},
+"ali_images": [
+  "https://openfile.meizu.com/group1/M00/07/12/Cgbj0Vx_ZKWARDEYAAVfKZZCbL0565.png680x680.jpg",
+  "https://openfile.meizu.com/group1/M00/07/02/Cgbj0Fx_ZKSATnTJAAU3Ca8M6D8964.png@480x480.jpg",
+  "https://openfile.meizu.com/group1/M00/07/11/Cgbj0Vx_ZJ-ABeyzAAFqjruDexM213.png680x680.jpg",
+  "https://openfile.meizu.com/group1/M00/07/11/Cgbj0Vx_ZJ-AGraoAANnMTTdNJU462.png680x680.jpg",
+  "https://openfile.meizu.com/group1/M00/07/02/Cgbj0Fx_ZJ-AOKshAAIEsqI1Tts496.png680x680.jpg"
+],
+"sku_list": [{
+  "id": 100027101,
+  "image": "https://openfile.meizu.com/group1/M00/06/ED/Cgbj0Fw0T3OAUsmSAAAKRl5WFHo325.png",
+  "limit_num": 5,
+  "color": "幻影黑"
+}, {
+  "id": 100027102,
+  "image": "https://openfile.meizu.com/group1/M00/06/ED/Cgbj0Fw0T3OAEdZCAAAJazF5kdU736.png",
+  "limit_num": 5,
+  "color": "皓月白"
+}, {
+  "id": 100027103,
+  "image": "https://openfile.meizu.com/group1/M00/06/FD/Cgbj0Vw0T3OAWwcZAAAKAuloWpw010.png",
+  "limit_num": 5,
+  "color": "星耀蓝"
+}]
+}, {
+"sku_id": 100027103,
+"title": "魅族 Note9",
+"sub_title": "[718特惠 低至1199元起 限时抢购中]",
+"ali_image": "https://openfile.meizu.com/group1/M00/07/13/Cgbj0Vx_ZMGAIQA1AAcF5QTOtV0207.png680x680.jpg",
+"price": 1199,
+"limit_num": 5,
+"spec_json": {
+  "image": "https://openfile.meizu.com/group1/M00/06/FD/Cgbj0Vw0T3OAWwcZAAAKAuloWpw010.png",
+  "show_name": "星耀蓝"
+},
+"ali_images": [
+  "https://openfile.meizu.com/group1/M00/07/13/Cgbj0Vx_ZMGAIQA1AAcF5QTOtV0207.png680x680.jpg",
+  "https://openfile.meizu.com/group1/M00/07/03/Cgbj0Fx_ZMCAdyF9AAbOHZSdVO8974.png@480x480.jpg",
+  "https://openfile.meizu.com/group1/M00/07/12/Cgbj0Vx_ZLSAUAkdAANZKmXVu-g519.png680x680.jpg",
+  "https://openfile.meizu.com/group1/M00/07/03/Cgbj0Fx_ZLqAOAZ7AAN4onnA0GY381.png680x680.jpg",
+  "https://openfile.meizu.com/group1/M00/07/13/Cgbj0Vx_ZLuADOmfAAI2auMhK38894.png680x680.jpg"
+],
+"sku_list": [{
+  "id": 100027101,
+  "image": "https://openfile.meizu.com/group1/M00/06/ED/Cgbj0Fw0T3OAUsmSAAAKRl5WFHo325.png",
+  "limit_num": 5,
+  "color": "幻影黑"
+}, {
+  "id": 100027102,
+  "image": "https://openfile.meizu.com/group1/M00/06/ED/Cgbj0Fw0T3OAEdZCAAAJazF5kdU736.png",
+  "limit_num": 5,
+  "color": "皓月白"
+}, {
+  "id": 100027103,
+  "image": "https://openfile.meizu.com/group1/M00/06/FD/Cgbj0Vw0T3OAWwcZAAAKAuloWpw010.png",
+  "limit_num": 5,
+  "color": "星耀蓝"
+}]
+}, {
+"sku_id": 100029901,
+"title": "魅族 16S",
+"sub_title": "[718特惠 低至1199元起 限时抢购中]",
+"ali_image": "https://openfile.meizu.com/group1/M00/07/15/Cgbj0Fy9cz-AKzW0AAkKFLXbnx4260.png680x680.jpg",
+"price": 2699,
+"limit_num": 1,
+"spec_json": {
+  "image": "https://openfile.meizu.com/group1/M00/07/37/Cgbj0VzFXcWADbyoAAAbAyGs-Hw580.png",
+  "show_name": "幻影蓝"
+},
+"ali_images": [
+  "https://openfile.meizu.com/group1/M00/07/15/Cgbj0Fy9cz-AKzW0AAkKFLXbnx4260.png680x680.jpg",
+  "https://openfile.meizu.com/group1/M00/07/3B/Cgbj0VzaXQqAHUNIAAi8Q-a1EVI137.png@480x480.jpg",
+  "https://openfile.meizu.com/group1/M00/07/14/Cgbj0Fy9cyCAKKZmAAXd7wyH2mc609.png680x680.jpg",
+  "https://openfile.meizu.com/group1/M00/07/2C/Cgbj0Vy9cymAeU41AAQalxoOVP0668.png680x680.jpg",
+  "https://openfile.meizu.com/group1/M00/07/15/Cgbj0Fy9czGARu4NAAJYl7ENVwk456.png680x680.jpg"
+],
+"limit_num": 5,
+"sku_list": [{
+  "id": 100029901,
+  "image": "https://openfile.meizu.com/group1/M00/07/37/Cgbj0VzFXcWADbyoAAAbAyGs-Hw580.png",
+  "limit_num": 1,
+  "color": "幻影蓝"
+},
+{
+  "id": 100029902,
+  "image": "https://openfile.meizu.com/group1/M00/07/20/Cgbj0FzFXcWAatqeAAAWGAde3TI196.png",
+  "limit_num": 1,
+  "color": "凝光白"
+}, {
+  "id": 10002903,
+  "image": "https://openfile.meizu.com/group1/M00/07/20/Cgbj0FzFXcWAUCvwAAAWicGGU48268.png",
+  "limit_num": 1,
+  "color": "炭纤黑"
+}]
+},
+{
+"sku_id": 100029902,
+"title": "魅族 16S",
+"sub_title": "[718特惠 低至1199元起 限时抢购中]",
+"ali_image": "https://openfile.meizu.com/group1/M00/07/15/Cgbj0Fy9czWAXOyBAAeUNTwf37o182.png680x680.jpg",
+"price": 2699,
+"limit_num": 1,
+"spec_json": {
+  "image": "https://openfile.meizu.com/group1/M00/07/20/Cgbj0FzFXcWAatqeAAAWGAde3TI196.png",
+  "show_name": "凝光白"
+},
+"ali_images": [
+  "https://openfile.meizu.com/group1/M00/07/15/Cgbj0Fy9czWAXOyBAAeUNTwf37o182.png680x680.jpg",
+  "https://openfile.meizu.com/group1/M00/07/23/Cgbj0FzaXQqAH-L3AAeSSra0qAg862.png@480x480.jpg",
+  "https://openfile.meizu.com/group1/M00/07/2B/Cgbj0Vy9cyCAJAcTAARYGDQG_LQ316.png680x680.jpg",
+  "https://openfile.meizu.com/group1/M00/07/2B/Cgbj0Vy9cyWAWRixAAPvnU1hKGw908.png680x680.jpg",
+  "https://openfile.meizu.com/group1/M00/07/14/Cgbj0Fy9cyyAP04OAAJDA285jjE149.png680x680.jpg"
+],
+"limit_num": 5,
+"sku_list": [{
+  "id": 100029901,
+  "image": "https://openfile.meizu.com/group1/M00/07/37/Cgbj0VzFXcWADbyoAAAbAyGs-Hw580.png",
+  "limit_num": 1,
+  "color": "幻影蓝"
+},
+{
+  "id": 100029902,
+  "image": "https://openfile.meizu.com/group1/M00/07/20/Cgbj0FzFXcWAatqeAAAWGAde3TI196.png",
+  "limit_num": 1,
+  "color": "凝光白"
+}, {
+  "id": 100029903,
+  "image": "https://openfile.meizu.com/group1/M00/07/20/Cgbj0FzFXcWAUCvwAAAWicGGU48268.png",
+  "limit_num": 1,
+  "color": "炭纤黑"
+}]
+}, {
+"sku_id": 100029903,
+"title": "魅族 16S",
+"sub_title": "[618特惠 低至1199元起 限时抢购中]",
+"ali_image": "https://openfile.meizu.com/group1/M00/07/2C/Cgbj0Vy9czeAB1b0AAbEyeUfNvI853.png680x680.jpg",
+"price": 2699,
+"limit_num": 1,
+"spec_json": {
+  "image": "https://openfile.meizu.com/group1/M00/07/20/Cgbj0FzFXcWAUCvwAAAWicGGU48268.png",
+  "show_name": "炭纤黑"
+},
+"ali_images": [
+  "https://openfile.meizu.com/group1/M00/07/2C/Cgbj0Vy9czeAB1b0AAbEyeUfNvI853.png680x680.jpg",
+  "https://openfile.meizu.com/group1/M00/07/3B/Cgbj0VzaXQqAMN2pAAa47vx50YU413.png@480x480.jpg",
+  "https://openfile.meizu.com/group1/M00/07/14/Cgbj0Fy9cyCAFTiJAALUkAwtnM0798.png680x680.jpg",
+  "https://openfile.meizu.com/group1/M00/07/14/Cgbj0Fy9cyiAapmYAAPdKnA-Nq4341.png680x680.jpg",
+  "https://openfile.meizu.com/group1/M00/07/2C/Cgbj0Vy9cy-AQHw_AAItbvBkEag325.png680x680.jpg"
+],
+"limit_num": 5,
+"sku_list": [{
+  "id": 100029901,
+  "image": "https://openfile.meizu.com/group1/M00/07/37/Cgbj0VzFXcWADbyoAAAbAyGs-Hw580.png",
+  "limit_num": 1,
+  "color": "幻影蓝"
+},
+{
+  "id": 100029902,
+  "image": "https://openfile.meizu.com/group1/M00/07/20/Cgbj0FzFXcWAatqeAAAWGAde3TI196.png",
+  "limit_num": 1,
+  "color": "凝光白"
+}, {
+  "id": 100029903,
+  "image": "https://openfile.meizu.com/group1/M00/07/20/Cgbj0FzFXcWAUCvwAAAWicGGU48268.png",
+  "limit_num": 1,
+  "color": "炭纤黑"
+}]
+},{
+"sku_id": 100030001,
+"title": "魅族 16X",
+"sub_title": "[【限时购机享红包】【限时3期免息】骁龙710 | ]",
+"ali_image": "https://openfile.meizu.com/group1/M00/06/BC/Cgbj0FvINLWAZXL4AAz1Mo4DEhM073.png680x680.jpg",
+"price": 1598.00,
+"limit_num": 5,
+"spec_json": {
+  "image": "https://openfile.meizu.com/group1/M00/06/ED/Cgbj0Fw0T3OAUsmSAAAKRl5WFHo325.png",
+  "show_name": "砚墨黑"
+},
+"ali_images": [
+  "https://openfile.meizu.com/group1/M00/06/BC/Cgbj0FvINLWAZXL4AAz1Mo4DEhM073.png680x680.jpg",
+  "https://openfile.meizu.com/group1/M00/06/CC/Cgbj0VvINL-AGM20AAw4GirVtYA698.png@480x480.jpg",
+  "https://openfile.meizu.com/group1/M00/06/8B/Cgbj0FuhuRSAb5gFAAbE_1LV5J4607.png680x680.jpg",
+  "https://openfile.meizu.com/group1/M00/06/8B/Cgbj0FuhuRuAIaA_AAZ2zJxTzvE796.png680x680.jpg",
+  "https://openfile.meizu.com/group1/M00/06/9A/Cgbj0VuhuRqAXFtFAAKWDH4wXUY208.png680x680.jpg"
+],
+"sku_list": [{
+  "id": 100030001,
+  "image": "https://openfile.meizu.com/group1/M00/06/ED/Cgbj0Fw0T3OAUsmSAAAKRl5WFHo325.png",
+  "limit_num": 5,
+  "color": "砚墨黑"
+}, {
+  "id": 100030002,
+  "image": "https://openfile.meizu.com/group1/M00/06/ED/Cgbj0Fw0T3OAEdZCAAAJazF5kdU736.png",
+  "limit_num": 5,
+  "color": "汝窑白"
+}, {
+  "id": 100030003,
+  "image": "https://openfile.meizu.com/group1/M00/06/FD/Cgbj0Vw0T3KAGI55AAAKABlplKE892.png",
+  "limit_num": 5,
+  "color": "晨曦金"
+}]
+},{
+"sku_id": 100030002,
+"title": "魅族 16X",
+"sub_title": "[【限时购机享红包】【限时3期免息】骁龙710 | ]",
+"ali_image": "https://openfile.meizu.com/group1/M00/06/CC/Cgbj0VvINLWAIlE-AAiaWpiehPA078.png680x680.jpg",
+"price": 1598.00,
+"limit_num": 5,
+"spec_json": {
+  "image": "https://openfile.meizu.com/group1/M00/06/ED/Cgbj0Fw0T3OAUsmSAAAKRl5WFHo325.png",
+  "show_name": "汝窑白"
+},
+"ali_images": [
+  "https://openfile.meizu.com/group1/M00/06/CC/Cgbj0VvINLWAIlE-AAiaWpiehPA078.png680x680.jpg",
+  "https://openfile.meizu.com/group1/M00/06/BC/Cgbj0FvINLWACd0AAAh2dGv5_R0516.png@480x480.jpg",
+  "https://openfile.meizu.com/group1/M00/06/9A/Cgbj0VuhuQuAJDKmAADzJgGebvw964.png680x680.jpg",
+  "https://openfile.meizu.com/group1/M00/06/9A/Cgbj0VuhuQuAf28UAAY_xQMGodA166.png680x680.jpg",
+  "https://openfile.meizu.com/group1/M00/06/8B/Cgbj0FuhuQuAT6roAAI6irYzLPQ372.png680x680.jpg"
+],
+"sku_list": [{
+  "id": 100030001,
+  "image": "https://openfile.meizu.com/group1/M00/06/ED/Cgbj0Fw0T3OAUsmSAAAKRl5WFHo325.png",
+  "limit_num": 5,
+  "color": "砚墨黑"
+}, {
+  "id": 100030002,
+  "image": "https://openfile.meizu.com/group1/M00/06/ED/Cgbj0Fw0T3OAEdZCAAAJazF5kdU736.png",
+  "limit_num": 5,
+  "color": "汝窑白"
+}, {
+  "id": 100030003,
+  "image": "https://openfile.meizu.com/group1/M00/06/FD/Cgbj0Vw0T3KAGI55AAAKABlplKE892.png",
+  "limit_num": 5,
+  "color": "晨曦金"
+}]
+},{
+"sku_id": 100030003,
+"title": "魅族 16X",
+"sub_title": "[618特惠 低至1199元起 限时抢购中]",
+"ali_image": "https://openfile.meizu.com/group1/M00/06/BC/Cgbj0FvINMCAYHwVAA9tzd_slxY751.png680x680.jpg",
+"price": 1598.00,
+"limit_num": 5,
+"spec_json": {
+  "image": "https://openfile.meizu.com/group1/M00/06/FD/Cgbj0Vw0T3KAGI55AAAKABlplKE892.png",
+  "show_name": "土豪金"
+},
+"ali_images": [
+  "https://openfile.meizu.com/group1/M00/06/BC/Cgbj0FvINMCAYHwVAA9tzd_slxY751.png680x680.jpg",
+  "https://openfile.meizu.com/group1/M00/06/BC/Cgbj0FvINMCAYHwVAA9tzd_slxY751.png@480x480.jpg",
+  "https://openfile.meizu.com/group1/M00/06/9A/Cgbj0VuhuSSAZ0uUAAqL3UvbaQg444.png680x680.jpg",
+  "https://openfile.meizu.com/group1/M00/06/8C/Cgbj0FuhuS6AZMOeAAagWKniRns103.png680x680.jpg",
+  "https://openfile.meizu.com/group1/M00/06/9B/Cgbj0VuhuS2AW_NTAAKsgp1Puj8475.png680x680.jpg"
+],
+"sku_list": [{
+  "id": 100030001,
+  "image": "https://openfile.meizu.com/group1/M00/06/ED/Cgbj0Fw0T3OAUsmSAAAKRl5WFHo325.png",
+  "limit_num": 5,
+  "color": "砚墨黑"
+}, {
+  "id": 100030002,
+  "image": "https://openfile.meizu.com/group1/M00/06/ED/Cgbj0Fw0T3OAEdZCAAAJazF5kdU736.png",
+  "limit_num": 5,
+  "color": "汝窑白"
+}, {
+  "id": 100030003,
+  "image": "https://openfile.meizu.com/group1/M00/06/FD/Cgbj0Vw0T3KAGI55AAAKABlplKE892.png",
+  "limit_num": 5,
+  "color": "晨曦金"
+}]
+},{
+"sku_id": 100031001,
+"title": "魅族 16Xs",
+"sub_title": "【限时购机享红包】【购买碎屏保赠送一年延保，截止到7月10日】",
+"ali_image": "https://openfile.meizu.com/group1/M00/07/44/Cgbj0VzvRJOALgfAAAyDXJ9iI6M640.png680x680.jpg",
+"price": 1499,
+"limit_num": 5,
+"spec_json": {
+  "image": "https://storeimg.meizu.com/product/1451976327-88280.png@50x50.png",
+  "show_name": "珊瑚橙"
+},
+"ali_images": [
+  "https://openfile.meizu.com/group1/M00/07/44/Cgbj0VzvRJOALgfAAAyDXJ9iI6M640.png680x680.jpg",
+  "https://openfile.meizu.com/group1/M00/07/2C/Cgbj0FzvRI6AWu1jAAxIbnS8M5Q295.png@480x480.jpg",
+  "https://openfile.meizu.com/group1/M00/07/43/Cgbj0VzvRIWAEoSVAAl1zk0bqho456.png680x680.jpg",
+  "https://openfile.meizu.com/group1/M00/07/2C/Cgbj0FzvRI2ARqQvAAQnVJv9w8c665.png680x680.jpg",
+  "https://openfile.meizu.com/group1/M00/07/44/Cgbj0VzvRI2AazXaAAIsQmL2NZM716.png680x680.jpg"
+],
+"sku_list": [{
+  "id": 100031001,
+  "image": "https://storeimg.meizu.com/product/1451976327-88280.png@50x50.png",
+  "limit_num": 5,
+  "color": "珊瑚橙"
+}, {
+  "id": 100031002,
+  "image": "https://storeimg.meizu.com/product/1451459052-28689.png",
+  "limit_num": 5,
+  "color": "骑士黑"
+}, {
+  "id": 100031003,
+  "image": "https://openfile.meizu.com/group1/M00/06/FD/Cgbj0Vw0T3OAWwcZAAAKAuloWpw010.png",
+  "limit_num": 5,
+  "color": "亚特兰蒂斯"
+}]
+},{
+"sku_id": 100031002,
+"title": "魅族 16Xs",
+"sub_title": "【限时购机享红包】【购买碎屏保赠送一年延保，截止到7月10日】",
+"ali_image": "https://openfile.meizu.com/group1/M00/07/2C/Cgbj0FzvRKCAKQ5vAAi2dZyo2v4915.png680x680.jpg",
+"price": 1499,
+"limit_num": 5,
+"spec_json": {
+  "image": "https://openfile.meizu.com/group1/M00/06/ED/Cgbj0Fw0T3OAUsmSAAAKRl5WFHo325.png",
+  "show_name": "骑士黑"
+},
+"ali_images": [
+  "https://openfile.meizu.com/group1/M00/07/2C/Cgbj0FzvRKCAKQ5vAAi2dZyo2v4915.png680x680.jpg",
+  "https://openfile.meizu.com/group1/M00/07/44/Cgbj0VzvRJ-AWr44AAiGUPbS22w583.png@480x480.jpg",
+  "https://openfile.meizu.com/group1/M00/07/2C/Cgbj0FzvRJOAH5vQAAP_QK7Ul4k243.png680x680.jpg",
+  "https://openfile.meizu.com/group1/M00/07/44/Cgbj0VzvRJmAOgyGAAPipjypbO0910.png680x680.jpg",
+  "https://openfile.meizu.com/group1/M00/07/2C/Cgbj0FzvRJqAExiOAAInDU9H8k8923.png680x680.jpg"
+],
+"sku_list": [{
+  "id": 100031001,
+  "image": "https://storeimg.meizu.com/product/1451976327-88280.png@50x50.png",
+  "limit_num": 5,
+  "color": "珊瑚橙"
+}, {
+  "id": 100031002,
+  "image": "https://storeimg.meizu.com/product/1451459052-28689.png",
+  "limit_num": 5,
+  "color": "骑士黑"
+}, {
+  "id": 100031003,
+  "image": "https://openfile.meizu.com/group1/M00/06/FD/Cgbj0Vw0T3OAWwcZAAAKAuloWpw010.png",
+  "limit_num": 5,
+  "color": "亚特兰蒂斯"
+}]
+},{
+"sku_id": 100031003,
+"title": "魅族 16Xs",
+"sub_title": "【限时购机享红包】【购买碎屏保赠送一年延保，截止到7月10日】",
+"ali_image": "https://openfile.meizu.com/group1/M00/07/45/Cgbj0VzvRLCAdJ6mAAjI-yc23PU314.png680x680.jpg",
+"price": 1499,
+"limit_num": 5,
+"spec_json": {
+  "image": "https://openfile.meizu.com/group1/M00/06/FD/Cgbj0Vw0T3OAWwcZAAAKAuloWpw010.png",
+  "show_name": "亚特兰蒂"
+},
+"ali_images": [
+  "https://openfile.meizu.com/group1/M00/07/45/Cgbj0VzvRLCAdJ6mAAjI-yc23PU314.png680x680.jpg",
+  "https://openfile.meizu.com/group1/M00/07/2D/Cgbj0FzvRKyAcTmAAAiLh3fsE44680.png@480x480.jpg",
+  "https://openfile.meizu.com/group1/M00/07/44/Cgbj0VzvRKCAXSJLAARoOndnvEw009.png680x680.jpg",
+  "https://openfile.meizu.com/group1/M00/07/2D/Cgbj0FzvRKiAQQx1AAQFYhNPyWI857.png680x680.jpg",
+  "https://openfile.meizu.com/group1/M00/07/45/Cgbj0VzvRKqAAXexAAIhQ4yPYyo579.png680x680.jpg"
+],
+"sku_list": [{
+  "id": 100031001,
+  "image": "https://storeimg.meizu.com/product/1451976327-88280.png@50x50.png",
+  "limit_num": 5,
+  "color": "珊瑚橙"
+}, {
+  "id": 100031002,
+  "image": "https://storeimg.meizu.com/product/1451459052-28689.png",
+  "limit_num": 5,
+  "color": "骑士黑"
+}, {
+  "id": 100031003,
+  "image": "https://openfile.meizu.com/group1/M00/06/FD/Cgbj0Vw0T3OAWwcZAAAKAuloWpw010.png",
+  "limit_num": 5,
+  "color": "亚特兰蒂斯"
+}]
+},{
+"sku_id": 100031501,
+"title": "魅族 X8",
+"sub_title": "【限时购机享红包】【限时6期免息】【限时领券最高立减300元】骁龙710",
+"ali_image": "https://openfile.meizu.com/group1/M00/06/B7/Cgbj0VusSJ6AH_bMAAimBuNV0-4121.png680x680.jpg",
+"price": 1298,
+"limit_num": 5,
+"spec_json": {
+  "image": "https://openfile.meizu.com/group1/M00/06/ED/Cgbj0Fw0T3OAEdZCAAAJazF5kdU736.png",
+  "show_name": "玉白"
+},
+"ali_images": [
+  "https://openfile.meizu.com/group1/M00/06/B7/Cgbj0VusSJ6AH_bMAAimBuNV0-4121.png680x680.jpg",
+  "https://openfile.meizu.com/group1/M00/06/A8/Cgbj0FusSJyACGwcAAg0epdui5o951.png@480x480.jpg",
+  "https://openfile.meizu.com/group1/M00/06/A8/Cgbj0FusSJ-AGjX5AAeYgVZv2Ic125.png680x680.jpg",
+  "https://openfile.meizu.com/group1/M00/06/B6/Cgbj0VusSJeAVPgvAAaYP_FCAkM778.png680x680.jpg",
+  "https://openfile.meizu.com/group1/M00/06/A8/Cgbj0FusSJaAAjWTAALGtSSMDPI480.png680x680.jpg"
+],
+"sku_list": [{
+  "id": 100031501,
+  "image": "https://openfile.meizu.com/group1/M00/06/ED/Cgbj0Fw0T3OAEdZCAAAJazF5kdU736.png",
+  "limit_num": 5,
+  "color": "玉白"
+}, {
+  "id": 100031502,
+  "image": "https://openfile.meizu.com/group1/M00/06/ED/Cgbj0Fw0T3OAUsmSAAAKRl5WFHo325.png",
+  "limit_num": 5,
+  "color": "亮黑"
+}, {
+  "id": 100031503,
+  "image": "https://openfile.meizu.com/group1/M00/06/FD/Cgbj0Vw0T3OAWwcZAAAKAuloWpw010.png",
+  "limit_num": 5,
+  "color": "幻蓝"
+}]
+},{
+"sku_id": 100031502,
+"title": "魅族 X8",
+"sub_title": "【限时购机享红包】【限时6期免息】【限时领券最高立减300元】骁龙710",
+"ali_image": "https://openfile.meizu.com/group1/M00/06/B7/Cgbj0VusSK-ABWIRAAm412yc0Ac039.png680x680.jpg",
+"price": 1298,
+"limit_num": 5,
+"spec_json": {
+  "image": "https://openfile.meizu.com/group1/M00/06/ED/Cgbj0Fw0T3OAUsmSAAAKRl5WFHo325.png",
+  "show_name": "亮黑"
+},
+"ali_images": [
+  "https://openfile.meizu.com/group1/M00/06/B7/Cgbj0VusSK-ABWIRAAm412yc0Ac039.png680x680.jpg",
+  "https://openfile.meizu.com/group1/M00/06/A9/Cgbj0FusSK2AQZgiAAlFKHoO-co889.png@480x480.jpg",
+  "https://openfile.meizu.com/group1/M00/06/A9/Cgbj0FusSLGAE44DAAeLveNy2X4743.png680x680.jpg",
+  "https://openfile.meizu.com/group1/M00/06/B7/Cgbj0VusSKmAGC6DAAaMxdXOpAY680.png680x680.jpg",
+  "https://openfile.meizu.com/group1/M00/06/A8/Cgbj0FusSKiAW4z7AALHc8pivJY472.png680x680.jpg"
+],
+"sku_list": [{
+  "id": 100031501,
+  "image": "https://openfile.meizu.com/group1/M00/06/ED/Cgbj0Fw0T3OAEdZCAAAJazF5kdU736.png",
+  "limit_num": 5,
+  "color": "玉白"
+}, {
+  "id": 100031502,
+  "image": "https://openfile.meizu.com/group1/M00/06/ED/Cgbj0Fw0T3OAUsmSAAAKRl5WFHo325.png",
+  "limit_num": 5,
+  "color": "亮黑"
+}, {
+  "id": 100031503,
+  "image": "https://openfile.meizu.com/group1/M00/06/FD/Cgbj0Vw0T3OAWwcZAAAKAuloWpw010.png",
+  "limit_num": 5,
+  "color": "幻蓝"
+}]
+},{
+"sku_id": 100031503,
+"title": "魅族 X8",
+"sub_title": "【限时购机享红包】【限时6期免息】【限时领券最高立减300元】骁龙710",
+"ali_image": "https://openfile.meizu.com/group1/M00/06/B8/Cgbj0VusSMGAOt9cAAi-1hXJ0Pw917.png680x680.jpg",
+"price": 1298,
+"limit_num": 5,
+"spec_json": {
+  "image": "https://openfile.meizu.com/group1/M00/06/FD/Cgbj0Vw0T3OAWwcZAAAKAuloWpw010.png",
+  "show_name": "幻蓝"
+},
+"ali_images": [
+  "https://openfile.meizu.com/group1/M00/06/B8/Cgbj0VusSMGAOt9cAAi-1hXJ0Pw917.png680x680.jpg",
+  "https://openfile.meizu.com/group1/M00/06/A9/Cgbj0FusSL6AS8w5AAhRPgc1bQE955.png@480x480.jpg",
+  "https://openfile.meizu.com/group1/M00/06/A9/Cgbj0FusSMSAcoXWAAeTUKNXwM8613.png680x680.jpg",
+  "https://openfile.meizu.com/group1/M00/06/B8/Cgbj0VusSLuAB_vMAAaa_UqAUCY515.png680x680.jpg",
+  "https://openfile.meizu.com/group1/M00/06/A9/Cgbj0FusSLuAL43wAALEvh3vw_w196.png680x680.jpg"
+],
+"sku_list": [{
+  "id": 100031501,
+  "image": "https://openfile.meizu.com/group1/M00/06/ED/Cgbj0Fw0T3OAEdZCAAAJazF5kdU736.png",
+  "limit_num": 5,
+  "color": "玉白"
+}, {
+  "id": 100031502,
+  "image": "https://openfile.meizu.com/group1/M00/06/ED/Cgbj0Fw0T3OAUsmSAAAKRl5WFHo325.png",
+  "limit_num": 5,
+  "color": "亮黑"
+}, {
+  "id": 100031503,
+  "image": "https://openfile.meizu.com/group1/M00/06/FD/Cgbj0Vw0T3OAWwcZAAAKAuloWpw010.png",
+  "limit_num": 5,
+  "color": "幻蓝"
+}]
+},{
+"sku_id": 100032001,
+"title": "魅族 Note8",
+"sub_title": "【限时领券最高立减450元】【限时6期免息】骁龙632 | 6.0 英寸全面屏",
+"ali_image": "https://openfile.meizu.com/group1/M00/06/C6/Cgbj0FvS5yWAZkC3AAQxqhurHi8122.png680x680.jpg",
+"price": 999,
+"limit_num": 5,
+"spec_json": {
+  "image": "https://openfile.meizu.com/group1/M00/06/ED/Cgbj0Fw0T3OAXiNDAAAJ9hjovo8776.png",
+  "show_name": "烟紫"
+},
+"ali_images": [
+  "https://openfile.meizu.com/group1/M00/06/C6/Cgbj0FvS5yWAZkC3AAQxqhurHi8122.png680x680.jpg",
+  "https://openfile.meizu.com/group1/M00/06/C6/Cgbj0FvS5yuAH9FEAAQYDOKm6Kc765.png@480x480.jpg",
+  "https://openfile.meizu.com/group1/M00/06/D3/Cgbj0VvQPleAYAR2AAtuSBS8PwY566.png680x680.jpg",
+  "https://openfile.meizu.com/group1/M00/06/D6/Cgbj0VvS5yWANIB2AAorvxMVvog021.png680x680.jpg",
+  "https://openfile.meizu.com/group1/M00/06/D6/Cgbj0VvS5ySAWkGvAAPYNBc5mTg605.png680x680.jpg"
+],
+"sku_list": [{
+  "id": 100032001,
+  "image": "https://openfile.meizu.com/group1/M00/06/ED/Cgbj0Fw0T3OAXiNDAAAJ9hjovo8776.png",
+  "limit_num": 5,
+  "color": "烟紫"
+}, {
+  "id": 100032002,
+  "image": "https://openfile.meizu.com/group1/M00/06/ED/Cgbj0Fw0T3OAPY4YAAAKBqEAm-Q473.png",
+  "limit_num": 5,
+  "color": "焰红"
+}, {
+  "id": 100032003,
+  "image": "https://storeimg.meizu.com/product/1451459052-28689.png",
+  "limit_num": 5,
+  "color": "曜黑"
+},{
+  "id": 100032004,
+  "image": "https://openfile.meizu.com/group1/M00/06/FD/Cgbj0Vw0T3OAWwcZAAAKAuloWpw010.png",
+  "limit_num": 5,
+  "color": "灰蓝"
+}]
+},{
+"sku_id": 100032002,
+"title": "魅族 Note8",
+"sub_title": "【限时领券最高立减450元】【限时6期免息】骁龙632 | 6.0 英寸全面屏",
+"ali_image": "https://openfile.meizu.com/group1/M00/07/03/Cgbj0Fx_ZLSAbkvCAAbf6BLA9aU577.png680x680.jpg",
+"price": 999,
+"limit_num": 5,
+"spec_json": {
+  "image": "https://openfile.meizu.com/group1/M00/06/ED/Cgbj0Fw0T3OAPY4YAAAKBqEAm-Q473.png",
+  "show_name": "红色"
+},
+"ali_images": [
+  "https://openfile.meizu.com/group1/M00/06/D3/Cgbj0VvQPm-AU7iSAAN3TL0zCwc952.png680x680.jpg",
+  "https://openfile.meizu.com/group1/M00/06/D4/Cgbj0VvQPnuAAwPPAAMv8zzt2DE910.png@480x480.jpg",
+  "https://openfile.meizu.com/group1/M00/06/C2/Cgbj0FvQPkyAeA3jAAlxckyWpiE392.png680x680.jpg",
+  "https://openfile.meizu.com/group1/M00/06/D3/Cgbj0VvQPmaAJJ_8AAjqfW6zZpI896.png680x680.jpg",
+  "https://openfile.meizu.com/group1/M00/06/D3/Cgbj0VvQPliAdzCRAANqob0dHIc404.png680x680.jpg"
+],
+"sku_list": [{
+  "id": 100032001,
+  "image": "https://openfile.meizu.com/group1/M00/06/ED/Cgbj0Fw0T3OAXiNDAAAJ9hjovo8776.png",
+  "limit_num": 5,
+  "color": "烟紫"
+}, {
+  "id": 100032002,
+  "image": "https://openfile.meizu.com/group1/M00/06/ED/Cgbj0Fw0T3OAPY4YAAAKBqEAm-Q473.png",
+  "limit_num": 5,
+  "color": "焰红"
+}, {
+  "id": 100032003,
+  "image": "https://storeimg.meizu.com/product/1451459052-28689.png",
+  "limit_num": 5,
+  "color": "曜黑"
+},{
+  "id": 100032004,
+  "image": "https://openfile.meizu.com/group1/M00/06/FD/Cgbj0Vw0T3OAWwcZAAAKAuloWpw010.png",
+  "limit_num": 5,
+  "color": "灰蓝"
+}]
+},{
+"sku_id": 100032003,
+"title": "魅族 Note8",
+"sub_title": "【限时领券最高立减450元】【限时6期免息】骁龙632 | 6.0 英寸全面屏",
+"ali_image": "https://openfile.meizu.com/group1/M00/06/C4/Cgbj0FvQPm-AKpRJAANYUefuOfg281.png680x680.jpg",
+"price": 999,
+"limit_num": 5,
+"spec_json": {
+  "image": "https://openfile.meizu.com/group1/M00/06/ED/Cgbj0Fw0T3OAUsmSAAAKRl5WFHo325.png",
+  "show_name": "黑色"
+},
+"ali_images": [
+  "https://openfile.meizu.com/group1/M00/06/C4/Cgbj0FvQPm-AKpRJAANYUefuOfg281.png680x680.jpg",
+  "https://openfile.meizu.com/group1/M00/06/C4/Cgbj0FvQPnmABVZHAAM7MXAlUiQ783.png@480x480.jpg",
+  "https://openfile.meizu.com/group1/M00/06/C2/Cgbj0FvQPkyAYLm-AAeHBY_8hwY127.png680x680.jpg",
+  "https://openfile.meizu.com/group1/M00/06/C3/Cgbj0FvQPmCAB4J9AAjQXlKrPyA451.png680x680.jpg",
+  "https://openfile.meizu.com/group1/M00/06/C3/Cgbj0FvQPliAH09-AANaoUYg1Wc407.png680x680.jpg"
+],
+"sku_list": [{
+  "id": 100032001,
+  "image": "https://openfile.meizu.com/group1/M00/06/ED/Cgbj0Fw0T3OAXiNDAAAJ9hjovo8776.png",
+  "limit_num": 5,
+  "color": "烟紫"
+}, {
+  "id": 100032002,
+  "image": "https://openfile.meizu.com/group1/M00/06/ED/Cgbj0Fw0T3OAPY4YAAAKBqEAm-Q473.png",
+  "limit_num": 5,
+  "color": "焰红"
+}, {
+  "id": 100032003,
+  "image": "https://storeimg.meizu.com/product/1451459052-28689.png",
+  "limit_num": 5,
+  "color": "曜黑"
+},{
+  "id": 100032004,
+  "image": "https://openfile.meizu.com/group1/M00/06/FD/Cgbj0Vw0T3OAWwcZAAAKAuloWpw010.png",
+  "limit_num": 5,
+  "color": "灰蓝"
+}]
+},{
+"sku_id": 100032004,
+"title": "魅族 Note8",
+"sub_title": "【限时领券最高立减450元】【限时6期免息】骁龙632 | 6.0 英寸全面屏",
+"ali_image": "https://openfile.meizu.com/group1/M00/06/C4/Cgbj0FvQPnGAARnYAANgsrqZggE950.png680x680.jpg",
+"price": 999,
+"limit_num": 5,
+"spec_json": {
+  "image": "https://openfile.meizu.com/group1/M00/06/ED/Cgbj0Fw0T3OAb9uWAAAJ72eJf_8989.png",
+  "show_name": "蓝色"
+},
+"ali_images": [
+  "https://openfile.meizu.com/group1/M00/06/C4/Cgbj0FvQPnGAARnYAANgsrqZggE950.png680x680.jpg",
+  "https://openfile.meizu.com/group1/M00/06/C4/Cgbj0FvQPoCAVTZOAANhcY1jWUk925.png@480x480.jpg",
+  "https://openfile.meizu.com/group1/M00/06/8D/Cgbj0FuhxsGAfDJoAAqAjXQJ0Bc180.png680x680.jpg",
+  "https://openfile.meizu.com/group1/M00/06/9D/Cgbj0FujaM2ATKHAAAK_9p2vL-w061.png680x680.jpg",
+  "https://openfile.meizu.com/group1/M00/06/9D/Cgbj0VuhxseAaVgtAAOJ1SSAsxc511.png680x680.jpg"
+],
+"sku_list": [{
+  "id": 100032001,
+  "image": "https://openfile.meizu.com/group1/M00/06/ED/Cgbj0Fw0T3OAXiNDAAAJ9hjovo8776.png",
+  "limit_num": 5,
+  "color": "烟紫"
+}, {
+  "id": 100032002,
+  "image": "https://openfile.meizu.com/group1/M00/06/ED/Cgbj0Fw0T3OAPY4YAAAKBqEAm-Q473.png",
+  "limit_num": 5,
+  "color": "焰红"
+}, {
+  "id": 100032003,
+  "image": "https://storeimg.meizu.com/product/1451459052-28689.png",
+  "limit_num": 5,
+  "color": "曜黑"
+},{
+  "id": 100032004,
+  "image": "https://openfile.meizu.com/group1/M00/06/FD/Cgbj0Vw0T3OAWwcZAAAKAuloWpw010.png",
+  "limit_num": 5,
+  "color": "灰蓝"
+}]
+},{
+"sku_id": 100034001,
+"title": "魅族 16s 白夜童话限量礼盒",
+"sub_title": "以梦为马 乘风破浪",
+"ali_image": "https://openfile.meizu.com/group1/M00/07/3F/Cgbj0Vzt9L6AGWGwAA0JvJu7FS0814.png680x680.jpg",
+"price": 3099,
+"limit_num": 5,
+"spec_json": {
+  "image": "https://openfile.meizu.com/group1/M00/07/20/Cgbj0FzFXcWAatqeAAAWGAde3TI196.png",
+  "show_name": "凝光白"
+},
+"ali_images": [
+  "https://openfile.meizu.com/group1/M00/07/3F/Cgbj0Vzt9L6AGWGwAA0JvJu7FS0814.png680x680.jpg",
+  "https://openfile.meizu.com/group1/M00/07/3F/Cgbj0Vzt9L6AGWGwAA0JvJu7FS0814.png@480x480.jpg",
+  "https://openfile.meizu.com/group1/M00/07/27/Cgbj0Fzt9L6ANK9XAAituxHJPnE439.png680x680.jpg",
+  "https://openfile.meizu.com/group1/M00/07/23/Cgbj0FzaXQqAH-L3AAeSSra0qAg862.png680x680.jpg",
+  "https://openfile.meizu.com/group1/M00/07/14/Cgbj0Fy9cyyAP04OAAJDA285jjE149.png680x680.jpg"
+],
+"sku_list": [{
+  "id": 100034001,
+  "image": "https://openfile.meizu.com/group1/M00/07/20/Cgbj0FzFXcWAatqeAAAWGAde3TI196.png",
+  "limit_num": 5,
+  "color": "凝光白"
+}]
+},{
+"sku_id": 100036001,
+"title": "魅族 V8 高配版",
+"sub_title": "【限时领券立减150元】【分期6期免息】Helio P22 处理器 | 5.7 英寸全面屏 |",
+"ali_image": "https://openfile.meizu.com/group1/M00/06/9C/Cgbj0FujaMOAWeYJAAVEg5SVzw0604.png680x680.jpg",
+"price": 898,
+"limit_num": 5,
+"spec_json": {
+  "image": "https://openfile.meizu.com/group1/M00/06/ED/Cgbj0Fw0T3OAKTLmAAAKABlplKE204.png",
+  "show_name": "土豪金"
+},
+"ali_images": [
+  "https://openfile.meizu.com/group1/M00/06/9C/Cgbj0FujaMOAWeYJAAVEg5SVzw0604.png680x680.jpg",
+  "https://openfile.meizu.com/group1/M00/06/AC/Cgbj0VujaMyAYB76AATj19tgy08068.png@480x480.jpg",
+  "https://openfile.meizu.com/group1/M00/07/02/Cgbj0Fx_ZKaAHKKzAANLbi_Jh9A009.png680x680.jpg",
+  "https://openfile.meizu.com/group1/M00/07/12/Cgbj0Vx_ZK2AeLuGAAOGkMdE1x4601.png680x680.jpg",
+  "https://openfile.meizu.com/group1/M00/07/03/Cgbj0Fx_ZK6AMuFWAAInES6rB6g430.png680x680.jpg"
+],
+"sku_list": [{
+  "id": 100036001,
+  "image": "https://openfile.meizu.com/group1/M00/06/ED/Cgbj0Fw0T3OAKTLmAAAKABlplKE204.png",
+  "limit_num": 5,
+  "color": "雅金"
+}, {
+  "id": 100036002,
+  "image": "https://storeimg.meizu.com/product/1451459052-28689.png",
+  "limit_num": 5,
+  "color": "曜黑"
+}, {
+  "id": 100036003,
+  "image": "https://openfile.meizu.com/group1/M00/06/FD/Cgbj0Vw0T3OAWwcZAAAKAuloWpw010.png",
+  "limit_num": 5,
+  "color": "灰蓝"
+}]
+},{
+"sku_id": 100036002,
+"title": "魅族 V8 高配版",
+"sub_title": "【限时领券立减150元】【分期6期免息】Helio P22 处理器 | 5.7 英寸全面屏 |",
+"ali_image": "https://openfile.meizu.com/group1/M00/06/9C/Cgbj0FujaMOAQn-WAAS2GptULwE816.png680x680.jpg",
+"price": 898,
+"limit_num": 5,
+"spec_json": {
+  "image": "https://openfile.meizu.com/group1/M00/06/ED/Cgbj0Fw0T3OAUsmSAAAKRl5WFHo325.png",
+  "show_name": "曜黑"
+},
+"ali_images": [
+  "https://openfile.meizu.com/group1/M00/06/9C/Cgbj0FujaMOAQn-WAAS2GptULwE816.png680x680.jpg",
+  "https://openfile.meizu.com/group1/M00/06/AC/Cgbj0VujaMOAFzUFAARRWnHvM84529.png@480x480.jpg",
+  "https://openfile.meizu.com/group1/M00/06/8D/Cgbj0FuhxriAVngfAAerjGBi9Eo962.png680x680.jpg",
+  "https://openfile.meizu.com/group1/M00/06/9C/Cgbj0VuhxriANvRQAAfirX6v7lM957.png680x680.jpg",
+  "https://openfile.meizu.com/group1/M00/06/9C/Cgbj0VuhxreAAmH_AAN9EUdbnR4712.png680x680.jpg"
+],
+"sku_list": [{
+  "id": 100036001,
+  "image": "https://openfile.meizu.com/group1/M00/06/ED/Cgbj0Fw0T3OAKTLmAAAKABlplKE204.png",
+  "limit_num": 5,
+  "color": "雅金"
+}, {
+  "id": 100036002,
+  "image": "https://storeimg.meizu.com/product/1451459052-28689.png",
+  "limit_num": 5,
+  "color": "曜黑"
+}, {
+  "id": 100036003,
+  "image": "https://openfile.meizu.com/group1/M00/06/FD/Cgbj0Vw0T3OAWwcZAAAKAuloWpw010.png",
+  "limit_num": 5,
+  "color": "灰蓝"
+}]
+},{
+"sku_id": 100036003,
+"title": "魅族 V8 高配版",
+"sub_title": "【限时领券立减150元】【分期6期免息】Helio P22 处理器 | 5.7 英寸全面屏 |",
+"ali_image": "https://openfile.meizu.com/group1/M00/06/D5/Cgbj0VvRoBKAAgQFAALB3KRSW0U201.png680x680.jpg",
+"price": 898,
+"limit_num": 5,
+"spec_json": {
+  "image": "https://openfile.meizu.com/group1/M00/06/ED/Cgbj0Fw0T3OAb9uWAAAJ72eJf_8989.png",
+  "show_name": "灰蓝"
+},
+"ali_images": [
+  "https://openfile.meizu.com/group1/M00/06/D5/Cgbj0VvRoBKAAgQFAALB3KRSW0U201.png680x680.jpg",
+  "https://openfile.meizu.com/group1/M00/06/C5/Cgbj0FvRoBuAPurkAAKeRCbcKvM061.png@480x480.jpg",
+  "https://openfile.meizu.com/group1/M00/06/D5/Cgbj0VvRoAaAfaYeAAigbEk4-dw476.png680x680.jpg",
+  "https://openfile.meizu.com/group1/M00/06/C5/Cgbj0FvRoBCATLQ_AAgTGiAHrAM996.png680x680.jpg",
+  "https://openfile.meizu.com/group1/M00/06/C4/Cgbj0FvRoAaAGFccAAOA9KAt_Sk811.png680x680.jpg"
+],
+"sku_list": [{
+  "id": 100036001,
+  "image": "https://openfile.meizu.com/group1/M00/06/ED/Cgbj0Fw0T3OAKTLmAAAKABlplKE204.png",
+  "limit_num": 5,
+  "color": "雅金"
+}, {
+  "id": 100036002,
+  "image": "https://storeimg.meizu.com/product/1451459052-28689.png",
+  "limit_num": 5,
+  "color": "曜黑"
+}, {
+  "id": 100036003,
+  "image": "https://openfile.meizu.com/group1/M00/06/FD/Cgbj0Vw0T3OAWwcZAAAKAuloWpw010.png",
+  "limit_num": 5,
+  "color": "灰蓝"
+}]
+},{
+"sku_id": 100027101,
+"title": "魅族 Note9",
+"sub_title": "[618特惠 低至1199元起 限时抢购中]",
+"ali_image": "https://openfile.meizu.com/group1/M00/07/03/Cgbj0Fx_ZLSAbkvCAAbf6BLA9aU577.png680x680.jpg",
+"price": 1199,
+"limit_num": 5,
+"spec_json": {
+  "image": "https://openfile.meizu.com/group1/M00/06/ED/Cgbj0Fw0T3OAUsmSAAAKRl5WFHo325.png",
+  "show_name": "黑色"
+},
+"ali_images": [
+  "https://openfile.meizu.com/group1/M00/07/03/Cgbj0Fx_ZLSAbkvCAAbf6BLA9aU577.png680x680.jpg",
+  "https://openfile.meizu.com/group1/M00/07/12/Cgbj0Vx_ZK6AaEObAAa1DJqn7us376.png@480x480.jpg",
+  "https://openfile.meizu.com/group1/M00/07/02/Cgbj0Fx_ZKaAHKKzAANLbi_Jh9A009.png680x680.jpg",
+  "https://openfile.meizu.com/group1/M00/07/12/Cgbj0Vx_ZK2AeLuGAAOGkMdE1x4601.png680x680.jpg",
+  "https://openfile.meizu.com/group1/M00/07/03/Cgbj0Fx_ZK6AMuFWAAInES6rB6g430.png680x680.jpg"
+],
+"sku_list": [{
+  "id": 100027101,
+  "image": "https://openfile.meizu.com/group1/M00/06/ED/Cgbj0Fw0T3OAUsmSAAAKRl5WFHo325.png",
+  "limit_num": 5,
+  "color": "黑色"
+}, {
+  "id": 100027102,
+  "image": "https://openfile.meizu.com/group1/M00/06/ED/Cgbj0Fw0T3OAEdZCAAAJazF5kdU736.png",
+  "limit_num": 5,
+  "color": "灰色"
+}, {
+  "id": 100027103,
+  "image": "https://openfile.meizu.com/group1/M00/06/FD/Cgbj0Vw0T3OAWwcZAAAKAuloWpw010.png",
+  "limit_num": 5,
+  "color": "蓝色"
+}]
+},{
+"sku_id": 100027101,
+"title": "魅族 Note9",
+"sub_title": "[618特惠 低至1199元起 限时抢购中]",
+"ali_image": "https://openfile.meizu.com/group1/M00/07/03/Cgbj0Fx_ZLSAbkvCAAbf6BLA9aU577.png680x680.jpg",
+"price": 1199,
+"limit_num": 5,
+"spec_json": {
+  "image": "https://openfile.meizu.com/group1/M00/06/ED/Cgbj0Fw0T3OAUsmSAAAKRl5WFHo325.png",
+  "show_name": "黑色"
+},
+"ali_images": [
+  "https://openfile.meizu.com/group1/M00/07/03/Cgbj0Fx_ZLSAbkvCAAbf6BLA9aU577.png680x680.jpg",
+  "https://openfile.meizu.com/group1/M00/07/12/Cgbj0Vx_ZK6AaEObAAa1DJqn7us376.png@480x480.jpg",
+  "https://openfile.meizu.com/group1/M00/07/02/Cgbj0Fx_ZKaAHKKzAANLbi_Jh9A009.png680x680.jpg",
+  "https://openfile.meizu.com/group1/M00/07/12/Cgbj0Vx_ZK2AeLuGAAOGkMdE1x4601.png680x680.jpg",
+  "https://openfile.meizu.com/group1/M00/07/03/Cgbj0Fx_ZK6AMuFWAAInES6rB6g430.png680x680.jpg"
+],
+"sku_list": [{
+  "id": 100027101,
+  "image": "https://openfile.meizu.com/group1/M00/06/ED/Cgbj0Fw0T3OAUsmSAAAKRl5WFHo325.png",
+  "limit_num": 5,
+  "color": "黑色"
+}, {
+  "id": 100027102,
+  "image": "https://openfile.meizu.com/group1/M00/06/ED/Cgbj0Fw0T3OAEdZCAAAJazF5kdU736.png",
+  "limit_num": 5,
+  "color": "灰色"
+}, {
+  "id": 100027103,
+  "image": "https://openfile.meizu.com/group1/M00/06/FD/Cgbj0Vw0T3OAWwcZAAAKAuloWpw010.png",
+  "limit_num": 5,
+  "color": "蓝色"
+}]
+},{
+"sku_id": 100027101,
+"title": "魅族 Note9",
+"sub_title": "[618特惠 低至1199元起 限时抢购中]",
+"ali_image": "https://openfile.meizu.com/group1/M00/07/03/Cgbj0Fx_ZLSAbkvCAAbf6BLA9aU577.png680x680.jpg",
+"price": 1199,
+"limit_num": 5,
+"spec_json": {
+  "image": "https://openfile.meizu.com/group1/M00/06/ED/Cgbj0Fw0T3OAUsmSAAAKRl5WFHo325.png",
+  "show_name": "黑色"
+},
+"ali_images": [
+  "https://openfile.meizu.com/group1/M00/07/03/Cgbj0Fx_ZLSAbkvCAAbf6BLA9aU577.png680x680.jpg",
+  "https://openfile.meizu.com/group1/M00/07/12/Cgbj0Vx_ZK6AaEObAAa1DJqn7us376.png@480x480.jpg",
+  "https://openfile.meizu.com/group1/M00/07/02/Cgbj0Fx_ZKaAHKKzAANLbi_Jh9A009.png680x680.jpg",
+  "https://openfile.meizu.com/group1/M00/07/12/Cgbj0Vx_ZK2AeLuGAAOGkMdE1x4601.png680x680.jpg",
+  "https://openfile.meizu.com/group1/M00/07/03/Cgbj0Fx_ZK6AMuFWAAInES6rB6g430.png680x680.jpg"
+],
+"sku_list": [{
+  "id": 100027101,
+  "image": "https://openfile.meizu.com/group1/M00/06/ED/Cgbj0Fw0T3OAUsmSAAAKRl5WFHo325.png",
+  "limit_num": 5,
+  "color": "黑色"
+}, {
+  "id": 100027102,
+  "image": "https://openfile.meizu.com/group1/M00/06/ED/Cgbj0Fw0T3OAEdZCAAAJazF5kdU736.png",
+  "limit_num": 5,
+  "color": "灰色"
+}, {
+  "id": 100027103,
+  "image": "https://openfile.meizu.com/group1/M00/06/FD/Cgbj0Vw0T3OAWwcZAAAKAuloWpw010.png",
+  "limit_num": 5,
+  "color": "蓝色"
+}]
+}
+  ]
+}

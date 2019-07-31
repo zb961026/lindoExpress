@@ -1,0 +1,314 @@
+{
+    "status":0,
+    "message":[
+    {
+  "id": 1000271,
+  "name": "魅族 Note9",
+  "name_title": "[718特惠 低至1199元起 限时抢购中]",
+  "price": 1199,
+  "sku_info": [{
+    "sku_id": 100027101,
+    "title": "魅族 Note9",
+    "sub_title": "[618特惠 低至1199元起 限时抢购中]",
+    "ali_image": "https://openfile.meizu.com/group1/M00/07/12/Cgbj0Vx_ZK6AaEObAAa1DJqn7us376.png@480x480.jpg",
+    "price": 1199,
+    "limit_num": 5,
+    "spec_json": {
+      "image": "https://openfile.meizu.com/group1/M00/06/ED/Cgbj0Fw0T3OAUsmSAAAKRl5WFHo325.png",
+      "show_name": "黑色"
+    }
+  }, {
+    "sku_id": 100027102,
+    "title": "魅族 Note9",
+    "sub_title": "[718特惠 低至1199元起 限时抢购中]",
+    "ali_image": "https://openfile.meizu.com/group1/M00/07/02/Cgbj0Fx_ZKSATnTJAAU3Ca8M6D8964.png@480x480.jpg",
+    "price": 1199,
+    "limit_num": 5,
+    "spec_json": {
+      "image": "https://openfile.meizu.com/group1/M00/06/ED/Cgbj0Fw0T3OAEdZCAAAJazF5kdU736.png",
+      "show_name": "白色"
+    }
+  }, {
+    "sku_id": 100027103,
+    "title": "魅族 Note9",
+    "sub_title": "[718特惠 低至1199元起 限时抢购中]",
+    "ali_image": "https://openfile.meizu.com/group1/M00/07/03/Cgbj0Fx_ZMCAdyF9AAbOHZSdVO8974.png@480x480.jpg",
+    "price": 1199,
+    "limit_num": 5,
+    "spec_json": {
+      "image": "https://openfile.meizu.com/group1/M00/06/FD/Cgbj0Vw0T3OAWwcZAAAKAuloWpw010.png",
+      "show_name": "蓝色"
+    }
+  }]
+}, {
+  "id": 1000299,
+  "name": "魅族 16S",
+  "name_title": "[718特惠 低至1199元起 限时抢购中]",
+  "price": 2699,
+  "sku_info": [{
+    "sku_id": 100029901,
+    "title": "[718特惠 低至1199元起 限时抢购中]",
+    "sub_title": "[718特惠 低至1199元起 限时抢购中]",
+    "ali_image": "https://openfile.meizu.com/group1/M00/07/3B/Cgbj0VzaXQqAHUNIAAi8Q-a1EVI137.png@480x480.jpg",
+    "price": 2699,
+    "limit_num": 5,
+    "spec_json": {
+      "image": "https://openfile.meizu.com/group1/M00/07/37/Cgbj0VzFXcWADbyoAAAbAyGs-Hw580.png",
+      "show_name": "青蓝色"
+    }
+  },
+  {
+    "sku_id": 100029902,
+    "title": "魅族 16S",
+    "sub_title": "[718特惠 低至1199元起 限时抢购中]",
+    "ali_image": "https://openfile.meizu.com/group1/M00/07/23/Cgbj0FzaXQqAH-L3AAeSSra0qAg862.png@480x480.jpg",
+    "price": 2699,
+    "limit_num": 5,
+    "spec_json": {
+      "image": "https://openfile.meizu.com/group1/M00/07/20/Cgbj0FzFXcWAatqeAAAWGAde3TI196.png",
+      "show_name": "灰白色"
+    }
+  }, {
+    "sku_id": 100029903,
+    "title": "魅族 16S",
+    "sub_title": "[718特惠 低至1199元起 限时抢购中]",
+    "ali_image": "https://openfile.meizu.com/group1/M00/07/3B/Cgbj0VzaXQqAMN2pAAa47vx50YU413.png@480x480.jpg",
+    "price": 2699,
+    "limit_num": 5,
+    "spec_json": {
+      "image": "https://openfile.meizu.com/group1/M00/07/20/Cgbj0FzFXcWAUCvwAAAWicGGU48268.png",
+      "show_name": "黑耀色"
+    }
+  }]
+},
+{
+  "id": 1000300,
+  "name": "魅族 16X",
+  "name_title": "【限时购机享红包】【限时3期免息】",
+  "price": 1598,
+  "sku_info": [{
+    "sku_id": 100030001,
+    "title": "[【限时购机享红包】【限时3期免息】骁龙710 | ]",
+    "sub_title": "[【限时购机享红包】【限时3期免息】骁龙710 | ]",
+    "ali_image": "https://openfile.meizu.com/group1/M00/06/CC/Cgbj0VvINL-AGM20AAw4GirVtYA698.png@480x480.jpg",
+    "price": 1598,
+    "limit_num": 5,
+    "spec_json": {
+      "image": "https://openfile.meizu.com/group1/M00/06/FD/Cgbj0Vw0T3OAJz5TAAAKRl5WFHo560.png",
+      "show_name": "黑色"
+    }
+  },
+  {
+    "sku_id": 100030002,
+    "title": "【限时购机享红包】【限时3期免息】",
+    "sub_title": "【限时购机享红包】【限时3期免息】",
+    "ali_image": "https://openfile.meizu.com/group1/M00/06/BC/Cgbj0FvINLWACd0AAAh2dGv5_R0516.png@480x480.jpg",
+    "price": 1598,
+    "limit_num": 5,
+    "spec_json": {
+      "image": "https://openfile.meizu.com/group1/M00/07/20/Cgbj0FzFXcWAatqeAAAWGAde3TI196.png",
+      "show_name": "灰白色"
+    }
+  }, {
+    "sku_id": 100030003,
+    "title": "【限时购机享红包】【限时3期免息】",
+    "sub_title": "【限时购机享红包】【限时3期免息】",
+    "ali_image": "https://openfile.meizu.com/group1/M00/06/BC/Cgbj0FvINMCAYHwVAA9tzd_slxY751.png@480x480.jpg",
+    "price": 1598,
+    "limit_num": 5,
+    "spec_json": {
+      "image": "https://openfile.meizu.com/group1/M00/06/FD/Cgbj0Vw0T3KAGI55AAAKABlplKE892.png",
+      "show_name": "土豪金"
+    }
+  }]
+}, {
+  "id": 10003100,
+  "name": "魅族 16Xs",
+  "name_title": "【限时购机享红包】【购买碎屏保赠送一年延保，截止到7月10日】",
+  "price": 1499,
+  "sku_info": [{
+    "sku_id": 100031001,
+    "title": "【限时购机享红包】【购买碎屏保赠送一年延保，截止到7月10日】",
+    "sub_title": "【限时购机享红包】【购买碎屏保赠送一年延保，截止到7月10日】",
+    "ali_image": "https://openfile.meizu.com/group1/M00/07/2C/Cgbj0FzvRI6AWu1jAAxIbnS8M5Q295.png@480x480.jpg",
+    "price": 1499,
+    "limit_num": 5,
+    "spec_json": {
+      "image": "https://storeimg.meizu.com/product/1451976327-88280.png@50x50.png",
+      "show_name": "橙红色"
+    }
+  },
+  {
+    "sku_id": 100031002,
+    "title": "【限时购机享红包】【购买碎屏保赠送一年延保，截止到7月10日】",
+    "sub_title": "【限时购机享红包】【购买碎屏保赠送一年延保，截止到7月10日】",
+    "ali_image": "https://openfile.meizu.com/group1/M00/07/44/Cgbj0VzvRJ-AWr44AAiGUPbS22w583.png@480x480.jpg",
+    "price": 1499,
+    "limit_num": 5,
+    "spec_json": {
+      "image": "https://storeimg.meizu.com/product/1451459052-28689.png",
+      "show_name": "黑色"
+    }
+  }, {
+    "sku_id": 100031003,
+    "title": "【限时购机享红包】【购买碎屏保赠送一年延保，截止到7月10日】",
+    "sub_title": "【限时购机享红包】【购买碎屏保赠送一年延保，截止到7月10日】",
+    "ali_image": "https://openfile.meizu.com/group1/M00/07/2D/Cgbj0FzvRKyAcTmAAAiLh3fsE44680.png@480x480.jpg",
+    "price": 1499,
+    "limit_num": 5,
+    "spec_json": {
+      "image": "https://openfile.meizu.com/group1/M00/06/ED/Cgbj0Fw0T3SAMii1AAAKCoEE630273.png",
+      "show_name": "天蓝色"
+    }
+  }]
+}, {
+  "id": 1000315,
+  "name": "魅族 X8",
+  "name_title": "【限时购机享红包】【限时6期免息】【限时领券最高立减300元】骁龙710",
+  "price": 1298,
+  "sku_info": [{
+    "sku_id": 100031501,
+    "title": "【限时购机享红包】【限时6期免息】【限时领券最高立减300元】骁龙710",
+    "sub_title": "【限时购机享红包】【限时6期免息】【限时领券最高立减300元】骁龙710",
+    "ali_image": "https://openfile.meizu.com/group1/M00/06/A8/Cgbj0FusSJyACGwcAAg0epdui5o951.png@480x480.jpg",
+    "price": 1298,
+    "limit_num": 5,
+    "spec_json": {
+      "image": "https://openfile.meizu.com/group1/M00/06/ED/Cgbj0Fw0T3OAEdZCAAAJazF5kdU736.png",
+      "show_name": "银白色"
+    }
+  },
+  {
+    "sku_id": 100031502,
+    "title": "【限时购机享红包】【限时6期免息】【限时领券最高立减300元】骁龙710",
+    "sub_title": "【限时购机享红包】【限时6期免息】【限时领券最高立减300元】骁龙710",
+    "ali_image": "https://openfile.meizu.com/group1/M00/06/A9/Cgbj0FusSK2AQZgiAAlFKHoO-co889.png@480x480.jpg",
+    "price": 1298,
+    "limit_num": 5,
+    "spec_json": {
+      "image": "https://openfile.meizu.com/group1/M00/07/20/Cgbj0FzFXcWAUCvwAAAWicGGU48268.png",
+      "show_name": "黑色"
+    }
+  }, {
+    "sku_id": 100031503,
+    "title": "【限时购机享红包】【限时6期免息】【限时领券最高立减300元】骁龙710",
+    "sub_title": "【限时购机享红包】【限时6期免息】【限时领券最高立减300元】骁龙710",
+    "ali_image": "https://openfile.meizu.com/group1/M00/06/A9/Cgbj0FusSL6AS8w5AAhRPgc1bQE955.png@480x480.jpg",
+    "price": 1298,
+    "limit_num": 5,
+    "spec_json": {
+      "image": "https://openfile.meizu.com/group1/M00/06/FD/Cgbj0Vw0T3OAWwcZAAAKAuloWpw010.png",
+      "show_name": "蓝色"
+    }
+  }]
+}, {
+  "id": 1000320,
+  "name": "魅族 Note8",
+  "name_title": "【限时领券最高立减450元】【限时6期免息】骁龙632 | 6.0 英寸全面屏",
+  "price": 999,
+  "sku_info": [{
+    "sku_id": 100032001,
+    "title": "【限时领券最高立减450元】【限时6期免息】骁龙632 | 6.0 英寸全面屏",
+    "sub_title": "【限时领券最高立减450元】【限时6期免息】骁龙632 | 6.0 英寸全面屏",
+    "ali_image": "https://openfile.meizu.com/group1/M00/06/C6/Cgbj0FvS5yuAH9FEAAQYDOKm6Kc765.png@480x480.jpg",
+    "price": 999,
+    "limit_num": 5,
+    "spec_json": {
+      "image": "https://openfile.meizu.com/group1/M00/06/ED/Cgbj0Fw0T3OAXiNDAAAJ9hjovo8776.png",
+      "show_name": "紫红色"
+    }
+  },
+  {
+    "sku_id": 100032002,
+    "title": "魅族 Note8",
+    "sub_title": "【限时领券最高立减450元】【限时6期免息】骁龙632 | 6.0 英寸全面屏",
+    "ali_image": "https://openfile.meizu.com/group1/M00/06/D4/Cgbj0VvQPnuAAwPPAAMv8zzt2DE910.png@480x480.jpg",
+    "price": 999,
+    "limit_num": 5,
+    "spec_json": {
+      "image": "https://openfile.meizu.com/group1/M00/06/ED/Cgbj0Fw0T3OAPY4YAAAKBqEAm-Q473.png",
+      "show_name": "棕红色"
+    }
+  }, {
+    "sku_id": 100032003,
+    "title": "魅族 Note8",
+    "sub_title": "【限时领券最高立减450元】【限时6期免息】骁龙632 | 6.0 英寸全面屏",
+    "ali_image": "https://openfile.meizu.com/group1/M00/06/C4/Cgbj0FvQPnmABVZHAAM7MXAlUiQ783.png@480x480.jpg",
+    "price": 999,
+    "limit_num": 5,
+    "spec_json": {
+      "image": "https://openfile.meizu.com/group1/M00/07/20/Cgbj0FzFXcWAUCvwAAAWicGGU48268.png",
+      "show_name": "黑耀色"
+    }
+  }, {
+    "sku_id": 100032004,
+    "title": "魅族 Note8",
+    "sub_title": "【限时领券最高立减450元】【限时6期免息】骁龙632 | 6.0 英寸全面屏",
+    "ali_image": "https://openfile.meizu.com/group1/M00/06/C4/Cgbj0FvQPoCAVTZOAANhcY1jWUk925.png@480x480.jpg",
+    "price": 999,
+    "limit_num": 5,
+    "spec_json": {
+      "image": "https://openfile.meizu.com/group1/M00/06/ED/Cgbj0Fw0T3OAb9uWAAAJ72eJf_8989.png",
+      "show_name": "蓝色"
+    }
+  }]
+}, {
+  "id": 1000340,
+  "name": "魅族 16s 白夜童话限量礼盒",
+  "name_title": "以梦为马 乘风破浪",
+  "price": 3099,
+  "sku_info": [{
+    "sku_id": 100034001,
+    "title": "以梦为马 乘风破浪",
+    "sub_title": "以梦为马 乘风破浪",
+    "ali_image": "https://openfile.meizu.com/group1/M00/07/3F/Cgbj0Vzt9L6AGWGwAA0JvJu7FS0814.png@480x480.jpg",
+    "price": 3099,
+    "limit_num": 5,
+    "spec_json": {
+      "image": "https://openfile.meizu.com/group1/M00/07/20/Cgbj0FzFXcWAatqeAAAWGAde3TI196.png",
+      "show_name": "银白色"
+    }
+  }]
+}, {
+  "id": 1000360,
+  "name": "魅族 V8 高配版",
+  "name_title": "【限时领券立减150元】【分期6期免息】Helio P22 处理器 | 5.7 英寸全面屏 |",
+  "price": 898,
+  "sku_info": [{
+    "sku_id": 100036001,
+    "title": "【限时领券立减150元】【分期6期免息】Helio P22 处理器 | 5.7 英寸全面屏 |",
+    "sub_title": "【限时领券立减150元】【分期6期免息】Helio P22 处理器 | 5.7 英寸全面屏 |",
+    "ali_image": "https://openfile.meizu.com/group1/M00/06/AC/Cgbj0VujaMyAYB76AATj19tgy08068.png@480x480.jpg",
+    "price": 898,
+    "limit_num": 5,
+    "spec_json": {
+      "image": "https://openfile.meizu.com/group1/M00/06/ED/Cgbj0Fw0T3OAKTLmAAAKABlplKE204.png",
+      "show_name": "土豪金"
+    }
+  },
+  {
+    "sku_id": 100036002,
+    "title": "【限时领券立减150元】【分期6期免息】Helio P22 处理器 | 5.7 英寸全面屏 |",
+    "sub_title": "【限时领券立减150元】【分期6期免息】Helio P22 处理器 | 5.7 英寸全面屏 |",
+    "ali_image": "https://openfile.meizu.com/group1/M00/06/AC/Cgbj0VujaMOAFzUFAARRWnHvM84529.png@480x480.jpg",
+    "price": 898,
+    "limit_num": 5,
+    "spec_json": {
+      "image": "https://storeimg.meizu.com/product/1451459052-28689.png",
+      "show_name": "黑色"
+    }
+  }, {
+    "sku_id": 100036003,
+    "title": "【限时领券立减150元】【分期6期免息】Helio P22 处理器 | 5.7 英寸全面屏 |",
+    "sub_title": "【限时领券立减150元】【分期6期免息】Helio P22 处理器 | 5.7 英寸全面屏 |",
+    "ali_image": "https://openfile.meizu.com/group1/M00/06/C5/Cgbj0FvRoBuAPurkAAKeRCbcKvM061.png@480x480.jpg",
+    "price": 898,
+    "limit_num": 5,
+    "spec_json": {
+      "image": "https://openfile.meizu.com/group1/M00/06/ED/Cgbj0Fw0T3OAb9uWAAAJ72eJf_8989.png",
+      "show_name": "天蓝色"
+    }
+  }]
+}
+    ]
+}
